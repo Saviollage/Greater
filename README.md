@@ -1,6 +1,6 @@
 # Maior elemento de um vetor
 
-[![Run on Repl.it](https://repl.it/badge/github/Saviollage/Greater](https://repl.it/@Saviollage/Greater)
+[![Run on Repl.it](https://repl.it/badge/github/Saviollage/Greater)](https://repl.it/@Saviollage/Greater)
 
 Implementação paralela do algoritmo para encontrar o maior elemento de um vetor.
 
